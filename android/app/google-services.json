@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072539078472",
+    "project_id": "doacaodobemteste",
+    "storage_bucket": "doacaodobemteste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072539078472:android:56e5758b2cf964c85f6d7d",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0vmhsKtASZigUqRX1R6MIrp4EEZrjY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
